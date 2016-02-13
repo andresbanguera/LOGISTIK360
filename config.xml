@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.autentia.ionic.pushnotifications" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>LOGISTIK360</name>
+    <description>
+        LOGISTIK360    </description>
+    <author email="admin@logistik360.com" href="http://www.logistica360.co">
+        LOGISTIK360
+    </author>
+    <icon src="logo.png" />
+    <content src="index.html" />
+    <access origin="*" />
+        
+</widget>
